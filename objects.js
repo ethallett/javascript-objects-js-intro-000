@@ -3,6 +3,6 @@ var playlist = {
 }
 
 function updatePlaylist(playlist, artistName, songTitle){
-  playlist['Slowdive'] = 'Alison'
-  playlist['My Bloody Valentine'] = 'Sometimes'
+  Object['Slowdive'] = 'Alison'
+  Object['My Bloody Valentine'] = 'Sometimes'
 }
