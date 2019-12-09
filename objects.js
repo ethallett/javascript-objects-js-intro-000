@@ -1,3 +1,3 @@
 var playlist = {
-  Hayes: Beaumont
+  Hayes: "Beaumont"
 }
